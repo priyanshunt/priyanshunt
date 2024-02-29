@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu with Github username: priyanshunt
 - 👀 I’m interested in Data Analytics, Back End development & Game Development
-- 🌱 I’m currently working in Java & Spring framework
+- 🌱 I’m currently working on AWS & Terraform
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
